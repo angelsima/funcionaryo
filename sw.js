@@ -1,6 +1,6 @@
 /* Service worker de FuncionarYo?: permite jugar sin conexión.
    Sube VERSION cada vez que publiques cambios para que los móviles se actualicen. */
-const VERSION = 'funcionaryo-v1';
+const VERSION = 'funcionaryo-v4';
 const FONTS = VERSION + '-fonts';
 const SHELL = [
   './', './index.html', './manifest.webmanifest', './privacidad.html',
